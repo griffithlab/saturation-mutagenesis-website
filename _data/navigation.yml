@@ -1,0 +1,23 @@
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Vignettes
+  url: /vignettes/
+
+- title: News
+  url: /news/
+
+- title: Contact
+  url: /contact/
+
+- title: Development
+  alignment: right
+  url: /development/
+  dropdown:
+    - title: Package
+      url: /development/package/
+    - title: Website
+      url: /development/website/
